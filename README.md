@@ -1,6 +1,6 @@
 # mamba-moe-hsi-classification
 
-![Architecture](HSI%20Spectral-Special%20Mamba%20MoE%20Pipeline.png)
+![Architecture](./HSI%20Spectral-Spatial%20Mamba%20MoE%20Pipeline.png)
 
 | Metric | Train | Validation | Test |
 |---|---:|---:|---:|
